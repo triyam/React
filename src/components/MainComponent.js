@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import Home from "./HomeComponent";
-import Menu from './MenuComponents';
+import Menu from './MenuComponent';
 import Header from './HeaderComponent';
 import Footer from "./FooterComponent";
 import DishDetail from "./DishdetailComponent";
